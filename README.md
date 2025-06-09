@@ -26,6 +26,7 @@ In this task, I developed a machine learning model to predict the genre of a mov
 The goal was to transform raw movie plot text into meaningful numerical features and apply supervised learning to classify each plot into one or more genres.This task demonstrates the application of natural language processing (NLP) techniques in real-world classification problems.
 Example: Create a machine learning model that can predict the genre of a
 movie based on its plot summary or other textual information.
+**[DATASET](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)**
 
 **Task 02 – [CREDIT CARD FRAUD DETECTION]**
 In this task, I built a machine learning model to detect fraudulent credit card transactions using a dataset containing anonymized transaction features. The objective was to accurately classify transactions as fraudulent or legitimate, addressing the common challenge of class imbalance in fraud detection.
@@ -34,6 +35,7 @@ The workflow involved data preprocessing, exploratory data analysis, and trainin
 
 This project highlights the application of supervised learning in a critical, real-world financial security scenario.
 Example: Build a model to detect fraudulent credit card transactions..
+**[DATASET](https://www.kaggle.com/datasets/kartik2112/fraud-detection)**
 
 **Task 03 – [CUSTOMER CHURN PREDICTION]**
 In this task, I developed a machine learning model to predict customer churn for a subscription-based service using historical customer data. The dataset included features such as usage behavior, demographics, and account activity, which were used to identify patterns associated with customer retention and churn.
@@ -42,6 +44,7 @@ After preprocessing the data and performing exploratory analysis, I trained and 
 
 This project demonstrates the use of predictive analytics in solving real-world business problems through classification techniques..
 Example: Develop a model to predict customer churn for a subscription-based service or business..
+**[DATASET](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)**
 
 **Task 04 – [SPAM SMS DETECTION]**
 In this task, I built a machine learning model to classify SMS messages as spam or legitimate. The dataset contained labeled text messages, which were preprocessed and transformed using TF-IDF to extract meaningful features from the text.
@@ -50,6 +53,7 @@ I experimented with classifiers such as Naive Bayes, Logistic Regression, and Su
 
 This project showcases the use of natural language processing (NLP) and text classification techniques for automating spam detection in communication systems..
 Example: Build an AI model that can classify SMS messages as spam or legitimate.
+**[DATASET](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)**
 
 **Task 05 – [HANDWRITTEN TEXT GENERATION]**
 In this task, I implemented a character-level recurrent neural network (RNN) to generate handwritten-like text. The model was trained on a dataset of handwritten text samples, learning the sequential patterns of characters at the pixel or stroke level.

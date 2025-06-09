@@ -2,7 +2,7 @@
 Welcome to my CodeSoft Internship repository! 👋
 This repository contains all the projects, tasks, and learning progress I completed during my internship at CodeSoft. Each folder is organized by task and showcases my skills in programming, problem-solving, and project development.
 
-**Skills & Concepts Covered**
+# Skills & Concepts Covered
 Supervised Learning (Regression & Classification)
 
 Unsupervised Learning (Clustering)
@@ -19,7 +19,7 @@ Data Visualization with Matplotlib / Seaborn
 
 Working with Scikit-learn, Pandas, NumPy, etc.
 
-**Projects Overview**
+# Projects Overview
 
 Task 01 – [Movie Genre Classification]
 In this task, I developed a machine learning model to predict the genre of a movie based on its plot summary and other textual information. The workflow included text preprocessing, feature extraction using TF-IDF, and model training with classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM).
@@ -45,12 +45,21 @@ This project demonstrates the use of predictive analytics in solving real-world 
 Example: Develop a model to predict customer churn for a subscription-based service or business..
 
 Task 04 – [SPAM SMS DETECTION]
-A brief description of the task and what it demonstrates.
-Example: Built a simple linear regression model to predict housing prices using the Boston dataset.\
+In this task, I built a machine learning model to classify SMS messages as spam or legitimate. The dataset contained labeled text messages, which were preprocessed and transformed using TF-IDF to extract meaningful features from the text.
+
+I experimented with classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) to accurately detect spam. Model performance was evaluated using metrics like accuracy, precision, and recall, with a focus on minimizing false positives.
+
+This project showcases the use of natural language processing (NLP) and text classification techniques for automating spam detection in communication systems..
+Example: Build an AI model that can classify SMS messages as spam or legitimate.
 
 Task 05 – [HANDWRITTEN TEXT GENERATION]
-A brief description of the task and what it demonstrates.
-Example: Implemented a decision tree classifier to identify types of iris flowers.
+In this task, I implemented a character-level recurrent neural network (RNN) to generate handwritten-like text. The model was trained on a dataset of handwritten text samples, learning the sequential patterns of characters at the pixel or stroke level.
+
+The RNN captures the temporal dependencies between characters, enabling it to generate new text sequences that mimic the style and structure of natural handwriting. This project demonstrates the application of deep learning for sequence modeling and generative tasks in the domain of handwriting synthesis.
+
+Key techniques include sequence modeling, RNN architecture (e.g., LSTM/GRU), and text generation based on learned patterns..
+Example: Implement a character-level recurrent neural network (RNN) to
+generate handwritten-like text..
 
 **Key Takeaways**
 

@@ -55,14 +55,6 @@ This project showcases the use of natural language processing (NLP) and text cla
 Example: Build an AI model that can classify SMS messages as spam or legitimate.
 **[DATASET](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)**
 
-**Task 05 – [HANDWRITTEN TEXT GENERATION]**
-In this task, I implemented a character-level recurrent neural network (RNN) to generate handwritten-like text. The model was trained on a dataset of handwritten text samples, learning the sequential patterns of characters at the pixel or stroke level.
-
-The RNN captures the temporal dependencies between characters, enabling it to generate new text sequences that mimic the style and structure of natural handwriting. This project demonstrates the application of deep learning for sequence modeling and generative tasks in the domain of handwriting synthesis.
-
-Key techniques include sequence modeling, RNN architecture (e.g., LSTM/GRU), and text generation based on learned patterns..
-Example: Implement a character-level recurrent neural network (RNN) to
-generate handwritten-like text..
 
 **Key Takeaways**
 
